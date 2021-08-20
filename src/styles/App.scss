@@ -1,0 +1,24 @@
+.ant-layout {
+  height: 100vh;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30%;
+  margin-bottom: 15%;
+}
+
+.anticon {
+  color: white !important;
+}
+
+.modal__status__error {
+  color: #ff4d4f;
+}
+
+.release-status {
+  margin-left: 20%;
+  color: #ff4d4f;
+}

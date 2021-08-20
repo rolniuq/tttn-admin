@@ -1,0 +1,20 @@
+@import "./components/Header.scss";
+@import "./components/Spinner.scss";
+@import "./components/Avatar.scss";
+
+@import "./pages/Category.Page.scss";
+@import "./pages/Product.Page.scss";
+@import "./pages/Order.Page.scss";
+@import "./pages/Statistic.Page.scss";
+@import "./pages/Login.Page.scss";
+
+@import "./App.scss";
+
+* {
+  margin: 0;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background: #fafafa;
+}
